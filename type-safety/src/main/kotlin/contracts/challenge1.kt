@@ -1,3 +1,4 @@
+package contracts
 
 private sealed class NetworkRequestResult<T> {
     class Loading<T>: NetworkRequestResult<T>()

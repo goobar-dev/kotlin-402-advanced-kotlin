@@ -1,3 +1,5 @@
+package contracts
+
 import java.lang.IllegalStateException
 import kotlin.contracts.ExperimentalContracts
 import kotlin.contracts.contract

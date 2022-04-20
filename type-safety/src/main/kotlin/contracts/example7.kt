@@ -1,3 +1,4 @@
+package contracts
 
 // Here, we've defined an extension function for helping us
 // using a given `State` instance to initialize other variables

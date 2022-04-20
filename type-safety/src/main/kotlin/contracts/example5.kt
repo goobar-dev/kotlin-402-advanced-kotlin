@@ -1,3 +1,5 @@
+package contracts
+
 import java.lang.IllegalStateException
 
 // Imagine we have some sealed set of state types

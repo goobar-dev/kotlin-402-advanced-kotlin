@@ -1,3 +1,4 @@
+package contracts
 
 // Imagine we have a helper function that directly, or indirectly,
 // should allow the compiler to infer whether or not a value is null

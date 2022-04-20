@@ -1,3 +1,4 @@
+package contracts
 
 // You likely have already been using contracts without realizing it
 // Within the Kotlin Standard Library, contracts are already being
