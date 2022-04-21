@@ -15,5 +15,8 @@ private fun main(): Unit = runBlocking {
  * An N of 5 should take 5 seconds to complete
  */
 private suspend fun countToN(n: Int) {
-    TODO()
+    for (i in 0..n) {
+        delay(i * 1000L)
+        println(i)
+    }
 }
