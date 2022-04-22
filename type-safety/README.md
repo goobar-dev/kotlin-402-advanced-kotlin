@@ -12,3 +12,5 @@ This lesson covers:
 - [ContractBuilder Reference](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.contracts/-contract-builder/)
 - [Kotlin StdLib Result](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-result/)
 - [Arrow Core](https://arrow-kt.io/docs/core/)
+- [Illustrated Guide to Variant in Kotlin](https://typealias.com/guides/illustrated-guide-covariance-contravariance)
+- [Kotlin Covariance and Contravariance](https://medium.com/kotlin-thursdays/introduction-to-kotlin-generics-9d18d3719e1d)
